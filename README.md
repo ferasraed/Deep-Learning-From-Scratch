@@ -1,2 +1,3 @@
-# I Built Neural Networks From Scratch (Using NumPy)\ln
-(Simple NN, RNN, and CNN)
+## I Built Neural Networks From Scratch (Using NumPy)
+
+## Simple NN, RNN, and CNN
